@@ -1,10 +1,11 @@
-- ### 👋 Hi, I'm @HannahAdegoye
+### 👋 Hi, I'm @HannahAdegoye
 
-- 👀 I'm interested in data analysis, machine learning, and data visualization. I'm particularly passionate about using data to solve real-world problems and drive innovation.
+- 👀 I'm passionate about **DevOps, cloud computing, and automating software delivery pipelines**. I love designing scalable, secure, and reliable systems using **AWS, Terraform, Ansible, Docker, and Kubernetes**.
 
-- 🌱 I'm currently learning advanced machine learning techniques, such as deep learning and reinforcement learning. I'm also exploring different data visualization libraries to improve my ability to communicate insights effectively.
+- 🌱 I'm currently exploring **advanced CI/CD techniques, DevSecOps practices, and serverless architectures**. I’m also expanding my skills in **infrastructure automation, monitoring, and cloud-native optimisations**.
 
-- 💞️ I'm looking to collaborate on interesting data science projects, particularly those related to healthcare, finance, or environmental sciences. I'm always eager to learn from others and contribute my skills to meaningful projects.
+- 💞️ I'm looking to collaborate on **cloud, DevOps, and infrastructure projects**, particularly those that improve reliability, security, and performance. I enjoy contributing to open-source tools and building solutions that solve real-world problems.
+
 
 - 📫 How to reach me:
   - Email: hannahadegoye@outlook.com
@@ -13,7 +14,7 @@
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I'm an avid rock climber and enjoy challenging myself on different routes whenever I can find the time!
+- ⚡ Fun fact: I don't speak German but i can if you like 😎
 
 .
 --->
