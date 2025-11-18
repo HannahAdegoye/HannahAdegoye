@@ -8,7 +8,7 @@
 
 - 📫 How to reach me:
   - Email: hannahadegoye@outlook.com
-  - LinkedIn: www.linkedin.com/in/hannah-a-2b575b264
+  - LinkedIn: [www.linkedin.com/in/hannah-a-2b575b264]
 
 
 - 😄 Pronouns: She/Her
