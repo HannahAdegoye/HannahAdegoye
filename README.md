@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @HannahAdegoye
 
--I work across functional, system, and UAT testing to make sure applications behave as expected, data stays accurate, and users can trust the software they rely on.
+I work across functional, system, and UAT testing to make sure applications behave as expected, data stays accurate, and users can trust the software they rely on.
 
 I enjoy breaking down requirements into clear test scenarios, exploring edge cases, and finding defects before they reach production. My work covers test design, manual execution, defect tracking, and regression testing across complex applications and integrations.
 
