@@ -1,11 +1,12 @@
 ### 👋 Hi, I'm @HannahAdegoye
 
-- 👀 I'm passionate about **DevOps, cloud computing, and automating software delivery pipelines**. I love designing scalable, secure, and reliable systems using **AWS, Terraform, Ansible, Docker, and Kubernetes**.
-- 🤓If it’s a modern digital service or app that updates frequently, scales for millions, or needs high availability and security, DevOps is making it happen behind the scenes. Essentially, almost every app you use daily relies on DevOps in some way
-- 🌱 I'm currently exploring **advanced CI/CD techniques, DevSecOps practices, and serverless architectures**. I’m also expanding my skills in **infrastructure automation, monitoring, and cloud-native optimisations**.
+-I work across functional, system, and UAT testing to make sure applications behave as expected, data stays accurate, and users can trust the software they rely on.
 
-- 💞️ I'm looking to collaborate on **cloud, DevOps, and infrastructure projects**, particularly those that improve reliability, security, and performance. I enjoy contributing to open-source tools and building solutions that solve real-world problems.
+I enjoy breaking down requirements into clear test scenarios, exploring edge cases, and finding defects before they reach production. My work covers test design, manual execution, defect tracking, and regression testing across complex applications and integrations.
 
+I’m particularly interested in quality within fast-moving delivery environments — where frequent releases, automation, and continuous integration make testing even more critical. I’m developing my skills in test automation, API testing, and CI-based quality gates.
+
+I’m open to collaborating on testing frameworks, quality tooling, and projects where reliability, usability, and stability matter. I enjoy contributing to repositories that improve how software is validated, released, and maintained
 
 - 📫 How to reach me:
   - Email: hannahadegoye@outlook.com
